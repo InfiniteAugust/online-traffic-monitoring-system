@@ -11,7 +11,10 @@ intro page
 intro page
 
 ![4](https://github.com/InfiniteAugust/online-traffic-monitoring-system/blob/main/Info/4.png)<br>
-detection
+intro page
 
 ![5](https://github.com/InfiniteAugust/online-traffic-monitoring-system/blob/main/Info/5.png)<br>
+detection
+
+![6](https://github.com/InfiniteAugust/online-traffic-monitoring-system/blob/main/Info/6.png)<br>
 tracking
